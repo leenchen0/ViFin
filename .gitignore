@@ -1,0 +1,4 @@
+.DS_Store
+data/processed/*.mat
+python/saved_model/*.h5
+*.pyc
